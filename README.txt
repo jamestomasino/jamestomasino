@@ -1,13 +1,13 @@
-JAMESTOMASINO(1)                   General Commands Manual                  JAMESTOMASINO(1)
+JAMES TOMASINO(1)                  General Commands Manual                 JAMES TOMASINO(1)
 
 NAME
-       jamestomasino - developer, writer, table-top gamer, world traveller
+       james_tomasino - developer, writer, table-top gamer, world traveller
 
 SYNOPSIS
-       jamestomasino [-aeiou]
+       james_tomasino [-aeiou]
 
 DESRIPTION
-       jamestomasino  does things on the internet. He administers several communities on the
+       James Tomasino does things on the internet. He administers several communities on the
        tildeverse and works as a freelance developer and digital marketing strategist, espe‐
        cially  in  Pharamceutical  advertising. He also enjoys writing both fiction and non-
        fiction and does so prolifically on the http, gopher, and gemini protocols.
@@ -32,27 +32,27 @@ DESRIPTION
               me online is to refer to the links on https://tomasino.org.
 
 EXIT STATUS
-       The jamestomasino exits with a 0 code on success, a 42 if discovering the  answer  to
+       The James Tomasino exits with a 0 code on success, a 42 if discovering the answer  to
        the great question of life the universe and everything, 216 is being asked the sum of
        the 72 hidden names of God, and >0 if an error occurs.
 
 EXAMPLES
-       jamestomasino
+       james_tomasino
               Answers, `Hello!'
 
-       jamestomasino -a
+       james_tomasino -a
               The sound he makes when falling from a great height
 
-       jamestomasino -e
+       james_tomasino -e
               Useful when encountering an unexpected spider in the bathroom
 
-       jamestomasino -i
+       james_tomasino -i
               He thinks, therefore he is
 
-       jamestomasino -o
+       james_tomasino -o
               Realization and understanding of a great hidden truth
 
-       jamestomasino -u
+       james_tomasino -u
               When someone gets a really good burn in
 
 LICENSE
@@ -61,11 +61,11 @@ LICENSE
        https://github.com/benlk/misc-licenses/blob/master/schrodinger-license.md
 
 BUGS
-       There are probably lots of problems with jamestomasino. If you can't hold your tongue
-       about them and need to call them out, I guess you can report issues at the git repos‐
-       itories at https://github.com/jamestomasino
+       There are probably lots of problems with James  Tomasino.  If  you  can't  hold  your
+       tongue about them and need to call them out, I guess you can report issues at the git
+       repositories at https://github.com/jamestomasino
 
 AUTHOR
        James Tomasino <github (at) jamestomasino (dot) com>
 
-2020.08.29                             29 August 2020                       JAMESTOMASINO(1)
+2020.08.29                             29 August 2020                      JAMES TOMASINO(1)
