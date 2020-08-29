@@ -22,14 +22,14 @@ DESRIPTION
               There's  plent  of  work  here  on Github, but the vast majority is in private
               repositories. Much of the work in the last decade has been for  pharmaceutical
               companies  either  in  website,  banner,  email, conference panels, or digital
-              sales aid form. In the past I've built applications on a number of  platforms.
-              If  your  professional needs touch digital marketing I've probably got experi‐
-              ence with it.
+              sales aid form. In the past he has built applications on  a  number  of  plat‐
+              forms.  If your professional needs touch digital marketing he's probably expe‐
+              rienced with it.
 
        Social things
-              I spend a great deal of time in IRC over at irc.tilde.chat  and  freenode.net.
-              I'm also on the Fediverse at @tomasino@tilde.zone , but the safest way to find
-              me online is to refer to the links on https://tomasino.org.
+              He spends a great deal of time in IRC over at irc.tilde.chat and freenode.net.
+              He's  also  on  the  Fediverse at @tomasino@tilde.zone , but the safest way to
+              find him online is to refer to the links on https://tomasino.org.
 
 EXIT STATUS
        The James Tomasino exits with a 0 code on success, a 42 if discovering the answer  to
