@@ -61,7 +61,9 @@ LICENSE
        https://github.com/benlk/misc-licenses/blob/master/schrodinger-license.md
 
 BUGS
-       Report issues at the git repository at https://github.com/jamestomasino
+       There are probably lots of problems with jamestomasino. If you can't hold your tongue
+       about them and need to call them out, I guess you can report issues at the git repos‐
+       itories at https://github.com/jamestomasino
 
 AUTHOR
        James Tomasino <github (at) jamestomasino (dot) com>
