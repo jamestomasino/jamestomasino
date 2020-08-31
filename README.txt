@@ -7,7 +7,7 @@ SYNOPSIS
        jamestomasino [-aeiou]
 
 DESCRIPTION
-       James  Tomasino does things on the internet. He administers several communities on the
+       James  Tomasino  does  things on the internet. He administers a tilde community on the
        tildeverse and works as a freelance developer and digital marketing strategist,  espe‐
        cially in Pharmaceutical advertising. He also enjoys writing both fiction and non-fic‐
        tion and does so prolifically on the http, gopher, and gemini protocols.
@@ -15,8 +15,10 @@ DESCRIPTION
        James Tomasino can be found in many of the following places
 
        The Tildeverse
-              https://cosmic.voyage and https://tilde.black are both tilde communities he ad‐
-              ministers. They're free to join.
+              https://cosmic.voyage is a tilde community based around  a  collaborative  sci‐
+              ence-fiction  universe.  Users  write  stories  as  the  people  aboard  ships,
+              colonies, and outposts, using the only remaining free,  interconnected  network
+              that unites the dispersed peoples of the stars.
 
        Professional Stuff
               There's  plenty  of  work  here  on Github, but the vast majority is in private
