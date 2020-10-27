@@ -65,14 +65,13 @@ EXAMPLES
 LICENSE
        Schrödinger License r3
 
-       https://github.com/benlk/misc-licenses/blob/master/schrodinger-li‐
-       cense.md
+       https://github.com/benlk/misc-licenses/blob/master/schrodinger-license.md
 
 BUGS
        There are probably lots of problems with James Tomasino. If  you  can't
        hold  your tongue about them and need to call them out, I guess you can
-       report issues at the git repositories  at  https://github.com/jamestom‐
-       asino
+       report issues at the git repositories  at
+       https://github.com/jamestomasino
 
 AUTHOR
        James Tomasino <github (at) jamestomasino (dot) com>
